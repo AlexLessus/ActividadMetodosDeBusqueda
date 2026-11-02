@@ -6,7 +6,7 @@
 ---
 
 ## 🏛 Descripción General
-Este software es una herramienta interactiva y pedagógica desarrollada en **Python 3** diseñada para los estudiantes y docentes de la materia de **Inteligencia Artificial** del ITCG. Permite representar, visualizar, explorar e interactuar con el grafo completo del mapa de localización del campus (edificios A-Z, laboratorios, cafetería L1, accesos 1 al 4, andadores y plazas).
+Este software es una herramienta interactiva y pedagógica desarrollada en **Python 3**. Permite representar, visualizar, explorar e interactuar con el grafo completo del mapa de localización del campus (edificios A-Z, laboratorios, cafetería L1, accesos 1 al 4, andadores y plazas).
 
 El sistema permite seleccionar cualquier nodo origen y destino, ejecutando y comparando paso a paso **6 algoritmos de búsqueda** fundamentales:
 1. **BFS (Breadth-First Search / Búsqueda Primero en Anchura)** - No informada.
